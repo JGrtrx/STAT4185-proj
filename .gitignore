@@ -1,3 +1,7 @@
-*.pdf
+# don't track generated files
 *.aux
 *.log
+
+# only track proposal pdf file
+*.pdf 
+!/proposal.pdf
