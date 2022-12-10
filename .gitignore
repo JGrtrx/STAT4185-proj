@@ -2,6 +2,9 @@
 *.aux
 *.log
 
+# don't track auxiliary planning files
+*.txt
+
 # only track proposal pdf file
 *.pdf 
 !/proposal.pdf

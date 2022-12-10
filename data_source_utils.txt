@@ -1,0 +1,8 @@
+Rubric Componenets:
+    obj statement
+    data collection
+    data cleaning (Pandas)
+    data visualization
+    data modeling (Sklearn)
+    analysis (markdown)
+    
