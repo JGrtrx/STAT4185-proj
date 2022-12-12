@@ -13,4 +13,3 @@ We would like to ascertain how production and consumption associate with the *pr
 ## Notebook
 
 The project content, including code blocks and discussion of results, are found in `Gratrix_Jacob_project.ipynb`. 
--- More details to come --
