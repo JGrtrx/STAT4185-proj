@@ -1,5 +1,5 @@
 ### Final Project ~ Stat 4185 Adv Data Manip &amp; Analysis in Python
-# The US Power Grid and its Optimality
+# Analysis Of The US Power Grid
 ### Jacob Gratrix
 
 ## Project Statement
